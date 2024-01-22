@@ -1,4 +1,4 @@
-SELECT * FROM movies WHERE Title LIKE "Toy%";
-SELECT * FROM movies WHERE Director = "John Lasseter";
-SELECT * FROM movies WHERE NOT Director = "John Lasseter";
-SELECT * FROM movies WHERE Title LIKE "WALL%";
+SELECT * FROM Movies WHERE Title LIKE "Toy%";
+SELECT * FROM Movies WHERE Director = "John Lasseter";
+SELECT * FROM Movies WHERE NOT Director = "John Lasseter";
+SELECT * FROM Movies WHERE Title LIKE "WALL%";
